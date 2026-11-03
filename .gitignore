@@ -1,0 +1,5 @@
+Praveen/
+__pycache__/
+*.py[cod]
+.env
+db.sqlite3
